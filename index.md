@@ -1,5 +1,6 @@
-Here you can say lots of fun things about your site.
+# this is my first page
 
-Maybe say a some things about yourself.
+```python
+print("this is a good thing")
+```
 
-Or maybe what you plan to blog about.
